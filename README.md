@@ -4,7 +4,7 @@
 
 ## Overview
 
-This project is a solution to the Kaggle competition "House Prices: Advanced Regression Techniques," through a collaborative effort with fellow students, conducted under the guidance of [Prof. Vered Aharonson](https://www.wits.ac.za/people/academic-a-z-listing/a/veredaharonsonwitsacza/) and achieved a grade of 90%. 
+This project is a solution to the Kaggle competition ["House Prices: Advanced Regression Techniques"](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/overview),through a collaborative effort with fellow students, conducted under the guidance of [Prof. Vered Aharonson](https://www.wits.ac.za/people/academic-a-z-listing/a/veredaharonsonwitsacza/) and achieved a grade of 90%. 
 
 ## Project Description
 
