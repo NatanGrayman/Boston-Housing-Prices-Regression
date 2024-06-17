@@ -12,7 +12,7 @@ This notebook is intended to be a practical project for an introductory machine 
 
 - **Data Cleaning and Pre-processing:** Handling missing values, encoding categorical variables, and feature scaling.
 - **Feature Engineering:** Creating new features from existing ones to improve model performance.
-**Model Selection:** Implementing and comparing linear regression, K-Nearest Neighbours (KNN), Random Forest, and blended models such as Ridge and Lasso.
+- **Model Selection:** Implementing and comparing linear regression, K-Nearest Neighbours (KNN), Random Forest, and blended models such as Ridge and Lasso.
 - **Model Evaluation:** Using KPI of Root Mean Square Error to evaluate and compare model performance.
 - **Visualization:** Employing various visualization techniques to explore and present findings.
 
